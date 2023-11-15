@@ -1,0 +1,7 @@
+selection_sort          O(n^2) Quadratic            O(n*log(n)) Logarithmic = lv 2 < avg lv 2.490 <= lv 3 = O(n^2) Quadratic
+modified_selection_sort O(n^2) Quadratic            O(n*log(n)) Logarithmic = lv 2 < avg lv 2.487 <= lv 3 = O(n^2) Quadratic
+bubble_sort             O(n^2) Quadratic            O(n*log(n)) Logarithmic = lv 2 < avg lv 2.927 <= lv 3 = O(n^2) Quadratic
+like_insertion_sort     O(n^2) Quadratic            O(n*log(n)) Logarithmic = lv 2 < avg lv 2.230 <= lv 3 = O(n^2) Quadratic
+insertion_sort          O(n^2) Quadratic            O(n*log(n)) Logarithmic = lv 2 < avg lv 2.230 <= lv 3 = O(n^2) Quadratic
+merge_sort              O(n*log(n)) Logarithmic     O(n) Linear             = lv 1 < avg lv 1.900 <= lv 2 = O(n*log(n)) Logarithmic
+quick_sort              O(n*log(n)) Logarithmic     O(n) Linear             = lv 1 < avg lv 1.987 <= lv 2 = O(n*log(n)) Logarithmic
